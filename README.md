@@ -10,3 +10,4 @@ plays sound. List of sounds below.
 | ----------- |
 | pipes |
 | knock |
+| dota |
