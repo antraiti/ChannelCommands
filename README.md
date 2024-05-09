@@ -12,6 +12,9 @@ plays sound. List of sounds below.
 | knock |
 | dota |
 
+## !spawnrandom
+spawns a random thing in game from the lists below (equal chance between npc/item/hazard)
+
 ## !spawn {spawn_id or name below}
 spawns the given item/npc in game Example: `!spawn Stimpak`
 ### Hazards
