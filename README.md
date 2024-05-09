@@ -4,6 +4,9 @@ Commands are denoted with `!`. Example: `!sound pipes`
 ## !click
 Does a left mouse click
 
+## !jump
+Presses space
+
 ## !sound {soundname}
 plays sound. List of sounds below.
 | soundname |
@@ -11,6 +14,9 @@ plays sound. List of sounds below.
 | pipes |
 | knock |
 | dota |
+
+## !teleport {cell id)
+teleports to the given cell id (see ids here: https://fallout.fandom.com/wiki/Fallout_4_cell_ID)
 
 ## !spawnrandom
 spawns a random thing in game from the lists below (equal chance between npc/item/hazard)
