@@ -15,6 +15,15 @@ plays sound. List of sounds below.
 | knock |
 | dota |
 
+## !save
+Quick saves the game
+
+## !load
+Loads last save
+
+## !grenade
+Uses alt (throws grenade or mine in game)
+
 ## !teleport {cell id)
 teleports to the given cell id (see ids here: https://fallout.fandom.com/wiki/Fallout_4_cell_ID)
 
