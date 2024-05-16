@@ -14,6 +14,15 @@ plays sound. List of sounds below.
 | pipes |
 | knock |
 | dota |
+| applause |
+| cheering |
+| boo |
+| curb |
+| guts |
+| huh |
+| rizz |
+| sus |
+| yippee |
 
 ## !save
 Quick saves the game
@@ -23,6 +32,11 @@ Loads last save
 
 ## !grenade
 Uses alt (throws grenade or mine in game)
+
+### Tip
+| caps | tips 20 caps |
+| exp/experience | tips 50 experience |
+| stim/stimpack | tips 1 stimpack (adds to inventory) |
 
 ## !teleport {cell id)
 teleports to the given cell id (see ids here: https://fallout.fandom.com/wiki/Fallout_4_cell_ID)
