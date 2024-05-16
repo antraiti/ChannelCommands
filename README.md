@@ -34,6 +34,8 @@ Loads last save
 Uses alt (throws grenade or mine in game)
 
 ### Tip
+| id | effect |
+| ----------- | ----------- |
 | caps | tips 20 caps |
 | exp/experience | tips 50 experience |
 | stim/stimpack | tips 1 stimpack (adds to inventory) |
