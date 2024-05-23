@@ -23,12 +23,36 @@ plays sound. List of sounds below.
 | rizz |
 | sus |
 | yippee |
+| gorp |
+| gegagedi |
+| blueaugh |
+| narutosad |
+| snoopdogg |
+| shutdown |
+| fdup |
+| french |
+| tacobell |
+
+## !flashbang
+Cranks my lights and blinds me
 
 ## !save
 Quick saves the game
 
 ## !load
 Loads last save
+
+## !daytime
+Makes the game Day
+
+## !nighttime
+Makes the game night
+
+## !heal
+Heals my character
+
+## !1hp
+Sets my character to 1hp
 
 ## !grenade
 Uses alt (throws grenade or mine in game)
