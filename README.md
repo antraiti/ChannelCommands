@@ -42,10 +42,10 @@ Quick saves the game
 ## !load
 Loads last save
 
-## !daytime
+## !day
 Makes the game Day
 
-## !nighttime
+## !night
 Makes the game night
 
 ## !heal
