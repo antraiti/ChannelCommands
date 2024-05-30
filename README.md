@@ -32,6 +32,8 @@ plays sound. List of sounds below.
 | fdup |
 | french |
 | tacobell |
+| shiet |
+| daddychill |
 
 ## !flashbang
 Cranks my lights and blinds me
@@ -51,8 +53,11 @@ Makes the game night
 ## !heal
 Heals my character
 
-## !1hp
-Sets my character to 1hp
+## !damage
+Damages character
+
+## !unequip
+Unequips everything from character
 
 ## !grenade
 Uses alt (throws grenade or mine in game)
