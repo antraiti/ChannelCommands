@@ -69,11 +69,22 @@ Uses alt (throws grenade or mine in game)
 | exp/experience | tips 50 experience |
 | stim/stimpack | tips 1 stimpack (adds to inventory) |
 
+## !weather
+Sets the weather in fallout
+| id |
+| ----------- |
+| clear |
+| fog |
+| rads |
+
 ## !teleport {cell id)
 teleports to the given cell id (see ids here: https://fallout.fandom.com/wiki/Fallout_4_cell_ID)
 
 ## !spawnrandom
 spawns a random thing in game from the lists below (equal chance between npc/item/hazard)
+
+## !give {item_id}
+spawns the given item/npc in game Example: `!give 00023736`
 
 ## !spawn {spawn_id or name below}
 spawns the given item/npc in game Example: `!spawn Stimpak`
