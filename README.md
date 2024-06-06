@@ -8,7 +8,7 @@ Does a left mouse click
 Presses space
 
 ## !sound {soundname}
-plays sound. List of sounds below.
+plays sound. List of sounds below. `!sound pipes`
 | soundname |
 | ----------- |
 | pipes |
@@ -63,6 +63,7 @@ Unequips everything from character
 Uses alt (throws grenade or mine in game)
 
 ### Tip
+Tips me ingame: `!tip stimpack`
 | id | effect |
 | ----------- | ----------- |
 | caps | tips 20 caps |
@@ -70,9 +71,7 @@ Uses alt (throws grenade or mine in game)
 | stim/stimpack | tips 1 stimpack (adds to inventory) |
 
 ## !weather
-Sets the weather in fallout
-| id |
-| ----------- |
+Sets the weather in fallout `!weather clear`
 | clear |
 | fog |
 | rads |
